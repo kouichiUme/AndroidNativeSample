@@ -1,1 +1,2 @@
-echo "android mk is start"
+LOCAL_SRC_FILES := MyCppClassMain.c
+LOCAL_MODULE    := MyCppClassMain
