@@ -1,2 +1,2 @@
-LOCAL_SRC_FILES := MyCppClassMain.c
+LOCAL_SRC_FILES := MyCppClassMain.cpp
 LOCAL_MODULE    := MyCppClassMain
