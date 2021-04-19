@@ -18,4 +18,10 @@ public class ExampleTestUnit {
         assertEquals(4, 2 + 2);
     }
 
+    @Test
+    public void testSystemout(){
+        System.out.println("system out test");
+
+    }
+
 }
