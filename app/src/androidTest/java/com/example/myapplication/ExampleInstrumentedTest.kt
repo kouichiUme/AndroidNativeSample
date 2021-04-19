@@ -20,7 +20,5 @@ class ExampleInstrumentedTest {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
         assertEquals("com.example.myapplication", appContext.packageName)
-        System.out.println("hogehoge")
-        Log.d('d',"log d")
     }
 }
